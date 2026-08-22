@@ -20,7 +20,7 @@
 - ESLint
 - Prettier
 
-### Backend / Infrastructure
+### Backend / Deployment
 - Firebase
 - Vercel
 
