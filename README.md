@@ -26,3 +26,8 @@
 ### Development / Version Control
 - Git
 - GitHub
+
+### Skills / Certification
+- HTML5 Professional Certification Level 2
+- React / TypeScript / Firebase（個人開発）
+- JavaScript / jQuery / Vue.js
