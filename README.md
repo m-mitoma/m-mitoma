@@ -27,5 +27,7 @@
 - Git
 - GitHub
 
-### Skills / Certification
+### Certification
 - HTML5 Professional Certification Level 2
+- ウェブデザイン技能検定2級 
+- Webクリエイター能力認定試験エキスパート
