@@ -16,6 +16,7 @@
 
 ### Testing / Code Quality
 - Vitest
+- React Testing Library
 - ESLint
 - Prettier
 
