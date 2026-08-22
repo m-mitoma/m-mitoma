@@ -12,7 +12,6 @@
 - TypeScript
 - JavaScript
 - Vite
-- React Router
 
 ### Testing / Code Quality
 - Vitest
