@@ -21,6 +21,7 @@
 - Prettier
 
 ### Backend / Deployment
+- microCMS
 - Firebase
 - Vercel
 
