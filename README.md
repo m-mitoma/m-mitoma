@@ -1,30 +1,35 @@
 # About me
 
-コーディングを中心に約20年の実務経験があります。  
-実務の課題に応じて必要な技術（CMS、ビルドツール、各種ライブラリ等）を柔軟に取り入れて実装を行ってきました。   
-実務の制作物は守秘義務のため非公開としております。  
-2025年に実務での使用を想定してReactを学習した際に作成したアプリを掲載しています。  
-現在はリファクタリングやテストコードの追加・改善にも取り組んでいます。
+コーディングを中心に約20年の実務経験があります。実務の制作物は守秘義務のため非公開としております。  
+2025年にiDeCo制度を調べた際に複数のWebサイトや動画を横断する必要があったことから会社員向けのiDeCo制度解説サイトを作成しました。  
+個人学習ではReact／TypeScriptを用いたWebアプリを作成し実装からテストやリファクタリングまで取り組んでいます。
 
 ## Tech Stack（個人学習）
 
 ### Frontend
+
 - React
 - TypeScript
 - JavaScript
 - Vite
 
+### CMS / API
+
+- microCMS
+- Firebase
+
 ### Testing / Code Quality
+
 - Vitest
 - React Testing Library
 - ESLint
 - Prettier
 
-### Backend / Deployment
-- microCMS
-- Firebase
+### Deployment
+
 - Vercel
 
 ### Development / Version Control
+
 - Git
 - GitHub
