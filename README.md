@@ -12,7 +12,7 @@ https://github.com/m-mitoma/ideco-navi
 
 **memo2-app**(2025年6月)  
 https://github.com/m-mitoma/memo2-app  
-ID: test&#64;gmail.com  
+ID: test<span>@</span>gmail.com  
 PW: testtest
 
 ## Tech Stack
